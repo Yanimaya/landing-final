@@ -21,7 +21,7 @@
 
 .dropdown-item:hover {
   background: transparent;
-  color: #000000;
+  color: #3270b8;
 }
 
 /* Enhanced Pricing Styles */
@@ -49,4 +49,5 @@
   background-color: var(--text);
   color: var(--card);
   border-color: var(--text);
+
 }
